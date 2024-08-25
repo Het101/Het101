@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **AWS, Flutter, Spring Boot and IoT**
 
-- 📫 How to reach me **hetpatidar09@gmail.com**
+- 📫 How to reach me **patel.x.het@gmail.com**
 
 - 📄 Know about my experiences [404](404)
 
