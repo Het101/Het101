@@ -7,15 +7,15 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/3f8bd37028526e0223e5fd780a318360.gif" />
 
 
-- 🔭 I’m currently working on **AWS CI/CD Pipeline**
+- 🔭 I’m currently working on **Spring Boot and AWS Services**
 
-- 🌱 I’m currently learning **Jenkins and JIRA**
+- 🌱 I’m currently learning **Kubernetes and Terraform**
 
 - 👯 I’m looking to collaborate on **AWS Automation**
 
-- 🤝 I’m looking for help with **AWS Automation**
+- 🤝 I’m looking for help with **Automation with CI/CD and Terraform**
 
-- 💬 Ask me about **AWS, Flutter and IoT**
+- 💬 Ask me about **AWS, Flutter, Spring Boot and IoT**
 
 - 📫 How to reach me **hetpatidar09@gmail.com**
 
